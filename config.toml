@@ -1,0 +1,4 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Berin Aniesh"
+theme = "hugo-PaperMod"
