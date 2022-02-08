@@ -1,4 +1,4 @@
-# Hello everyone
+## Hello everyone
 
 I am Berin Aniesh and I know a thing or two about computers, programming and linux.
 
