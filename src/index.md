@@ -1,6 +1,8 @@
 ## Hello everyone
 
-I am Berin Aniesh and I know a thing or two about computers, programming and linux.
+I am Berin Aniesh and I know a thing or two about computers, programming, databases and linux.
+
+This website is a WIP and will update it as I get time. 
 
 Drop me an [email](mailto:berinaniesh@gmail.com) if you have something to say. 
 
