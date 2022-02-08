@@ -4,3 +4,4 @@ I am Berin Aniesh and I know a thing or two about computers, programming and lin
 
 Drop me an [email](mailto:berinaniesh@gmail.com) if you have something to say. 
 
+Here is my [public key](berinaniesh.asc)
